@@ -7,13 +7,13 @@ just say hello
 import code
 
 ```bash
-go get github.com/246859/hello@latest
+go get github.com/yuyan42517/hello@latest
 ```
 
 install cmd
 
 ```bash
-go install github.com/246859/hello/cmd/hello@latest
+go install github.com/yuyan42517/hello/cmd/hello@latest
 ```
 
 ## Example
@@ -25,7 +25,7 @@ package main
 
 import (
   "fmt"
-  "github.com/246859/hello"
+  "github.com/yuyan42517/hello"
 )
 
 func main() {
